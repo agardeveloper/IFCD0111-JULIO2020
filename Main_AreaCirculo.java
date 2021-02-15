@@ -1,13 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package com.nowe.presentacion;
 
 /**
  *
- * @author agarm
+ * @author Ana Garcia
  */
 public class Main_AreaCirculo {
     
@@ -22,7 +18,7 @@ public class Main_AreaCirculo {
        double radio = 2;
        double area;
        area = PI*radio*radio;
-        System.out.println("Area del círculo-->" +area);
+        System.out.println("Area del círculo-->" + area);
         
        
         
